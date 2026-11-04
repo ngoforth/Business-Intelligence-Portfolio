@@ -1,5 +1,8 @@
 Service Rate Planning Tool
 
+Dashboard Preview
+
+
 Overview:
 
 Developed an interactive Power BI solution that allows users to evaluate service rate adjustments and immediately see the impact on pricing calculations.

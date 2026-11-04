@@ -3,7 +3,8 @@ Business Analyst Portfolio
 Welcome to my portfolio showcasing business analysis, reporting, and process improvement projects.
 
 Projects
-📊 Service Rates Analytics Dashboard
+📊 Service Rate Scenario Modeling
+
 A Power BI dashboard designed to consolidate data from multiple sources and provide stakeholders with visibility into service rate metrics.
 
 Skills: Power BI, Snowflake, Data Analysis, Stakeholder Management

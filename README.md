@@ -1,4 +1,5 @@
 Business Analyst Portfolio
+
 Welcome to my portfolio showcasing business analysis, reporting, and process improvement projects.
 
 Projects

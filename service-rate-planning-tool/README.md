@@ -1,7 +1,7 @@
 Service Rate Planning Tool
 
-Dashboard Preview
-
+Dashboard Preview:
+<img src=https://github.com/ngoforth/business-analyst-portfolio/blob/main/service-rate-planning-tool/dashboard.png>
 
 Overview:
 

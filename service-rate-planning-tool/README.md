@@ -26,11 +26,15 @@
 
 <td width="50%" valign="top">
 
-## Business Problem
+<h2>Business Problem</h2>
 
+<p>
 Stakeholders needed a way to evaluate service rate changes without manually calculating pricing impacts across multiple locations and service categories.
+</p>
 
+<p>
 The existing process required manual analysis, resulting in increased effort, longer turnaround times, and a higher risk of calculation errors.
+</p>
 
 </td>
 

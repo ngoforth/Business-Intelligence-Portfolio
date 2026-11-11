@@ -40,14 +40,16 @@ The existing process required manual analysis, resulting in increased effort, lo
 
 <td width="50%" valign="top">
 
-## Business Impact
+<h2>Business Impact</h2>
 
-- Reduced reliance on manual pricing calculations
-- Improved visibility into service rate changes
-- Enabled faster scenario analysis
-- Supported data-driven decision making
-- Increased confidence in pricing evaluations
-- Delivered a scalable reporting solution
+<ul>
+<li>Reduced reliance on manual pricing calculations</li>
+<li>Improved visibility into service rate changes</li>
+<li>Enabled faster scenario analysis</li>
+<li>Supported data-driven decision making</li>
+<li>Increased confidence in pricing evaluations</li>
+<li>Delivered a scalable reporting solution</li>
+</ul>
 
 </td>
 

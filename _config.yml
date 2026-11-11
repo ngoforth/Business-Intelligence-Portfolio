@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
 title: >
-  <img src="Profile-picture.png" width="140">
+  <img src="Profile-picture.png" width="140"><br>
   Natasha Goforth
 
 description: >
@@ -9,6 +9,6 @@ description: >
   Power BI | DAX | Power Query | KPI Reporting | Data Modeling<br><br>
   Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics.<br><br>
   <a href="https://www.linkedin.com/in/natasha-goforth/">LinkedIn</a> •
-  <a href="https://ngoforth.github.io/Business-Intelligence-Portfolio/">GitHub</a>
+  <a href="https://ngoforth.github.io/Business-Intelligence-Portfolio/">GitHub</a> •
   <a href="mailto:goforthnatasha23@gmail.com">Email</a>
 

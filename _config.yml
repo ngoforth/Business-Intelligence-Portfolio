@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
-title: Natasha Goforth
+
+title: >
+  <img src="Profile-picture.png" width="140"><br>
+  Natasha Goforth
+
 description: Business Intelligence & Data Analytics Portfolio

@@ -98,7 +98,6 @@ The solution consolidated business logic and pricing scenarios into a user-frien
 - DAX
 - Power Query
 - Snowflake
-- Microsoft Excel
 - Third-Party Data Sources
 
 ---
@@ -135,9 +134,9 @@ This project demonstrates the ability to translate business requirements into a 
 
 <p align="center">
 
-### View Other Projects
 
-[🏠 Return to Portfolio Home](../)
+[🏠 Return to Portfolio Home](https://ngoforth.github.io/Business-Intelligence-Portfolio/)
+
 
 </p>
 

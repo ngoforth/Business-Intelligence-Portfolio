@@ -1,12 +1,21 @@
-<img src="Profile-picture.png" width="175" align="right">
+<p align="center">
+  <img src="Profile-picture.png" width="200">
+</p>
 
-# Natasha Goforth
+<p align="center">
+<b>Power BI</b> | <b>DAX</b> | <b>Power Query</b> | <b>KPI Reporting</b> | <b>Data Modeling</b>
+</p>
 
-## Business Intelligence & Data Analytics Portfolio
+<p align="center">
+Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics.
+</p>
 
-### Power BI | DAX | Power Query | KPI Reporting | Data Modeling
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
+<a href="https://github.com/ngoforth">GitHub</a>
+</p>
 
-Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics. Experienced in DAX, Power Query, SharePoint, Smartsheet, and transforming business data into actionable insights for leadership and stakeholders.
+---
 
 ---
 

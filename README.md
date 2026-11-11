@@ -89,7 +89,7 @@ Workflow automation initiative leveraging SharePoint, Power Automate, and busine
 
 📧 goforthnatasha23@gmail.com
 
-🔗 https://www.linkedin.com/in/natasha-goforth/
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/natasha-goforth/)
 
 🔗 https://github.com/ngoforth
 

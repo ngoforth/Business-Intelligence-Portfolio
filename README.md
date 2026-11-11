@@ -1,4 +1,11 @@
-Natasha Goforth | Data Analytics Portfolio
+------------------------------------------
+Natasha Goforth            [PHOTO]
+
+Business Intelligence &
+Data Analytics Professional
+
+Power BI | DAX | Power Query
+------------------------------------------
 
 Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics. Experienced in DAX, Power Query, SharePoint, Smartsheet, and transforming business data into actionable insights for leadership and stakeholders.
 

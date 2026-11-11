@@ -31,7 +31,7 @@ Data and Business Intelligence professional with experience developing Power BI 
 
 ## Service Rate Scenario Modeling
 
-![Dashboard Screenshot](<img src=https://github.com/ngoforth/business-analyst-portfolio/blob/main/service-rate-planning-tool/dashboard.png>)
+![Dashboard Screenshot](<img src=https://github.com/ngoforth/Business-Intelligence-Portfolio/blob/main/service-rate-planning-tool/dashboard.png>)
 
 ### Project Overview
 

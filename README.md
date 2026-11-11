@@ -1,17 +1,33 @@
-Business Analyst Portfolio
+Natasha Goforth | Data Analytics Portfolio
 
-Welcome to my portfolio showcasing business analysis, reporting, and process improvement projects.
+Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics. Experienced in DAX, Power Query, SharePoint, Smartsheet, and transforming business data into actionable insights for leadership and stakeholders.
+
+Technical Skills
+
+• Power BI
+• DAX
+• Power Query
+• Data Modeling
+• KPI Development
+• Dashboard Design
+• SharePoint
+• Smartsheet
+• Power Automate
+• SQL (if applicable)
+• Microsoft Excel
+• Business Analysis
+• Process Improvement
 
 Projects
 📊 Service Rate Scenario Modeling
 
-A Power BI dashboard designed to consolidate data from multiple sources and provide stakeholders with visibility into service rate metrics.
+Designed and developed a Power BI solution to consolidate operational data from multiple systems into a centralized reporting environment. Created KPI tracking, trend analysis, and executive reporting views to improve visibility into service rate performance and support data-driven decision making.
 
-Skills: Power BI, Snowflake, Data Analysis, Stakeholder Management
 
 View Project
 
-Upcoming Projects
-AR Aging & Payments Dashboard
-Badge Tracking Process Improvement
-Work Order Automation Solution
+Additional Project Case Studies
+
+• AR Aging & Collections Dashboard
+• Workforce Badge Tracking Improvement
+• Work Order Automation Solution

@@ -1,4 +1,4 @@
-<img src="profile-picture.png" width="175" align="right">
+<img src="Profile-picture.png" width="175" align="right">
 
 # Natasha Goforth
 
@@ -87,9 +87,9 @@ Workflow automation initiative leveraging SharePoint, Power Automate, and busine
 
 # Contact
 
-📧 your-email@email.com
+📧 goforthnatasha23@gmail.com
 
-🔗 https://www.linkedin.com/in/YOUR-LINKEDIN
+🔗 https://www.linkedin.com/in/natasha-goforth/
 
 🔗 https://github.com/ngoforth
 

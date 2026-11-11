@@ -1,5 +1,5 @@
 ------------------------------------------
-Natasha Goforth            [PHOTO]
+Natasha Goforth            <img src=https://github.com/ngoforth/business-analyst-portfolio/blob/main/Profile%20picture.png>
 
 Business Intelligence &
 Data Analytics Professional

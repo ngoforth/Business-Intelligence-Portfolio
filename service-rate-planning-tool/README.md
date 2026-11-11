@@ -133,11 +133,9 @@ This project demonstrates the ability to translate business requirements into a 
 ---
 
 <p align="center">
-
-
-[🏠 Return to Portfolio Home](https://ngoforth.github.io/Business-Intelligence-Portfolio/)
-
-
+<a href="https://ngoforth.github.io/Business-Intelligence-Portfolio/">
+🏠 Return to Portfolio Home
+</a>
 </p>
 
 

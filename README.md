@@ -23,32 +23,34 @@
 
 ![Dashboard Screenshot](service-rate-planning-tool/dashboard.png)
 
-### Project Overview
+## Project Overview
 
-Designed and developed a Power BI solution to consolidate operational data from multiple systems into a centralized reporting environment.
+Developed an interactive Power BI solution that enables stakeholders to evaluate service rate adjustments and instantly assess pricing impacts through dynamic scenario modeling and real-time calculations.
 
-### Key Deliverables
+### Key Features
 
-- KPI Tracking Dashboard
-- Trend Analysis Reporting
-- Executive-Level Reporting Views
-- Interactive Data Visualization
-- Business Performance Monitoring
+- Dynamic Rate Modeling
+- Tier 1, Tier 2, and Tier 3 Rate Adjustments
+- Interactive Scenario Planning
+- Location-Based Reporting
+- Service Category Filtering
+- Real-Time Calculation Updates
+- Executive Reporting Dashboards
 
-### Tools Used
+### Technologies
 
 - Power BI
 - DAX
 - Power Query
 - Snowflake
-- Data Analysis
-- Stakeholder Management
+- Third-Party Systems
 
 ### Business Impact
 
-- Consolidated multiple operational data sources
-- Improved reporting visibility for leadership
-- Reduced manual reporting effort
+- Reduced manual pricing calculations
+- Improved visibility into rate adjustments
+- Enabled faster scenario analysis
+- Increased confidence in pricing evaluations
 - Supported data-driven decision making
 
 [View Project →](service-rate-planning-tool/README.md)

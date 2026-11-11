@@ -1,23 +1,4 @@
-<p align="center">
-  <img src="Profile-picture.png" width="200">
-</p>
 
-<p align="center">
-<b>Power BI</b> | <b>DAX</b> | <b>Power Query</b> | <b>KPI Reporting</b> | <b>Data Modeling</b>
-</p>
-
-<p align="center">
-Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics.
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-<a href="https://github.com/ngoforth">GitHub</a>
-</p>
-
----
-
----
 
 ## Technical Skills
 
@@ -94,12 +75,5 @@ Workflow automation initiative leveraging SharePoint, Power Automate, and busine
 
 ---
 
-# Contact
-
-📧 goforthnatasha23@gmail.com
-
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/natasha-goforth/)
-
-🔗 https://github.com/ngoforth
 
 

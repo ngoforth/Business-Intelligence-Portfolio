@@ -1,40 +1,96 @@
-------------------------------------------
-Natasha Goforth            <img src=https://github.com/ngoforth/business-analyst-portfolio/blob/main/Profile-picture.png>
+<img src="profile-picture.png" width="175" align="right">
 
-Business Intelligence &
-Data Analytics Professional
+# Natasha Goforth
 
-Power BI | DAX | Power Query
-------------------------------------------
+## Business Intelligence & Data Analytics Portfolio
+
+### Power BI | DAX | Power Query | KPI Reporting | Data Modeling
 
 Data and Business Intelligence professional with experience developing Power BI dashboards, KPI reporting, process improvement solutions, and operational analytics. Experienced in DAX, Power Query, SharePoint, Smartsheet, and transforming business data into actionable insights for leadership and stakeholders.
 
-Technical Skills
+---
 
-• Power BI
-• DAX
-• Power Query
-• Data Modeling
-• KPI Development
-• Dashboard Design
-• SharePoint
-• Smartsheet
-• Power Automate
-• SQL (if applicable)
-• Microsoft Excel
-• Business Analysis
-• Process Improvement
+## Technical Skills
 
-Projects
-📊 Service Rate Scenario Modeling
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-005A9C?style=for-the-badge)
+![KPI Development](https://img.shields.io/badge/KPI%20Development-0078D4?style=for-the-badge)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-512BD4?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-006633?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0099CC?style=for-the-badge)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-FF6600?style=for-the-badge)
 
-Designed and developed a Power BI solution to consolidate operational data from multiple systems into a centralized reporting environment. Created KPI tracking, trend analysis, and executive reporting views to improve visibility into service rate performance and support data-driven decision making.
+---
+
+# 📊 Featured Project
+
+## Service Rate Scenario Modeling
+
+![Dashboard Screenshot](dashboard-screenshot.png)
+
+### Project Overview
+
+Designed and developed a Power BI solution to consolidate operational data from multiple systems into a centralized reporting environment.
+
+### Key Deliverables
+
+- KPI Tracking Dashboard
+- Trend Analysis Reporting
+- Executive-Level Reporting Views
+- Interactive Data Visualization
+- Business Performance Monitoring
+
+### Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Snowflake
+- Data Analysis
+- Stakeholder Management
+
+### Business Impact
+
+- Consolidated multiple operational data sources
+- Improved reporting visibility for leadership
+- Reduced manual reporting effort
+- Supported data-driven decision making
+
+[View Project](LINK_TO_PROJECT)
+
+---
+
+# Additional Project Case Studies
+
+## 💰 AR Aging & Collections Dashboard
+
+Power BI dashboard designed to analyze accounts receivable aging, payment trends, and collection performance metrics.
+
+---
+
+## 🎫 Workforce Badge Tracking Process Improvement
+
+Process improvement initiative focused on badge management, compliance tracking, and operational efficiency.
+
+---
+
+## ⚙️ Work Order Automation Solution
+
+Workflow automation initiative leveraging SharePoint, Power Automate, and business process improvement methodologies.
+
+---
+
+# Contact
+
+📧 your-email@email.com
+
+🔗 https://www.linkedin.com/in/YOUR-LINKEDIN
+
+🔗 https://github.com/ngoforth
 
 
-View Project
-
-Additional Project Case Studies
-
-• AR Aging & Collections Dashboard
-• Workforce Badge Tracking Improvement
-• Work Order Automation Solution

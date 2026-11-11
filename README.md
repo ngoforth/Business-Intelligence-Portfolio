@@ -51,7 +51,7 @@ Designed and developed a Power BI solution to consolidate operational data from 
 - Reduced manual reporting effort
 - Supported data-driven decision making
 
-[View Project →](service-rate-planning-tool/)
+[View Project →](service-rate-planning-tool/README.md)
 
 ---
 

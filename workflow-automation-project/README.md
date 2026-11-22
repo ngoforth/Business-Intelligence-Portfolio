@@ -1,4 +1,4 @@
-# Workflow Automation Solution
+# Business Automation Solution
 
 ![Workflow Automation Process]()
 

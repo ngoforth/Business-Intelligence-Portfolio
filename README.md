@@ -65,7 +65,7 @@ Power BI dashboard designed to analyze accounts receivable aging, payment trends
 
 ---
 
-## 🎫 Workforce Badge Tracking Process Improvement [View Project →](Workforce-Badge-Tracking-Process-Improvement/README.md)
+## 🎫 Workforce Badge Tracking Process Improvement [View Project →](Workforce Badge Tracking Process Improvement/README.md)
 
 Process improvement initiative focused on badge management, compliance tracking, and operational efficiency.
 

@@ -71,7 +71,7 @@ Process improvement initiative focused on badge management, compliance tracking,
 
 ---
 
-## ⚙️ Work Order Automation Solution
+## ⚙️ Business Automation Solution [View Project →](workflow-automation-project/README.md)
 
 Workflow automation initiative leveraging SharePoint, Power Automate, and business process improvement methodologies.
 

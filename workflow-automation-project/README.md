@@ -1,6 +1,6 @@
 # Business Automation Solution
 
-![Workflow Automation Process]()
+![Workflow Automation Process](Data Workflow Automation Pipeline.png)
 
 ## Project Summary
 
@@ -12,7 +12,7 @@ The solution integrated data from iCare, Snowflake, Power BI, Power Automate, Ex
 
 | Business Problem | Business Impact |
 |-----------------|----------------|
-| Program Managers entered operational data into iCare, but downstream processes required teams to manually retrieve, transform, and distribute information across multiple systems. The manual process increased effort, delayed reporting, and introduced opportunities for data inconsistencies. | • Reduced manual data handling and processing<br>• Improved data accuracy across operational systems<br>• Accelerated invoice and work order preparation<br>• Increased reporting visibility through centralized dashboards<br>• Improved stakeholder access to critical business data<br>• Standardized processes across multiple customer programs |
+| Program Managers entered project and operational data into iCare; however, invoicing, work order management, and RFP processes required information to be manually extracted, transformed, and distributed across multiple systems. Teams spent significant time gathering data, creating spreadsheets, updating Smartsheet's, and validating information before it could be used by downstream business processes. The manual workflow created bottlenecks, delayed operational activities, increased the risk of data inconsistencies, and limited visibility into program performance. Stakeholders needed a scalable solution that could automate data movement, standardize reporting, and reduce reliance on manual processes. | • Reduced manual data handling and processing<br>• Improved data accuracy across operational systems<br>• Accelerated invoice and work order preparation<br>• Increased reporting visibility through centralized dashboards<br>• Improved stakeholder access to critical business data<br>• Standardized processes across multiple customer programs |
 
 ---
 

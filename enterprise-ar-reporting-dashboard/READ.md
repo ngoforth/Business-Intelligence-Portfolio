@@ -1,6 +1,6 @@
 # Enterprise AR Reporting Dashboard
 
-![Workflow Automation Process](.png)
+![Accounts Receivable Dashboard Pipeline](Accounts Receivable Dashboard Pipeline.png)
 
 ## Project Summary
 

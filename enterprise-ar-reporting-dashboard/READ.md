@@ -1,6 +1,6 @@
 # Enterprise AR Reporting Dashboard
 
-ar-dashboard.png
+![Workflow Automation Process](.png)
 
 ## Project Summary
 

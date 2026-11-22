@@ -1,11 +1,5 @@
 [← Back to Portfolio](../)
 
-# Service Rate Planning Tool
-
-<p align="center">
-  <img src="dashboard.png" width="900">
-</p>
-
 ---
 # Business Automation Solution
 

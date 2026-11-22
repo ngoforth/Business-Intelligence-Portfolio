@@ -92,3 +92,8 @@ By consolidating workforce information into a structured process, the solution i
 
 This project demonstrates the ability to analyze operational workflows, identify process inefficiencies, and implement business solutions that improve workforce visibility, onboarding effectiveness, access management, and compliance tracking. By centralizing critical workforce information and standardizing tracking procedures, the solution reduced administrative effort while improving operational readiness and stakeholder visibility.
 ---
+<p align="center">
+<a href="https://ngoforth.github.io/Business-Intelligence-Portfolio/">
+🏠 Return to Portfolio Home
+</a>
+</p>

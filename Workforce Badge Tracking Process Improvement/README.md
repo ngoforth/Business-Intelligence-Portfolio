@@ -10,9 +10,43 @@ The solution improved onboarding visibility, streamlined workforce readiness tra
 
 ---
 
-| Business Problem | Business Impact |
-|-----------------|----------------|
-| Workforce onboarding activities were managed through multiple spreadsheets, email communications, and manual tracking processes. Stakeholders lacked centralized visibility into badge status, background screening progress, site access permissions, company asset assignments, and recurring compliance requirements. The manual process increased administrative effort, limited reporting visibility, and created risks related to workforce readiness and access management. | • Centralized workforce onboarding tracking<br>• Improved visibility into employee readiness status<br>• Reduced manual administrative effort<br>• Improved site access management controls<br>• Enhanced compliance monitoring and reporting<br>• Increased accountability across onboarding activities<br>• Standardized workforce access processes<br>• Improved operational readiness reporting |
+<table>
+  <tr>
+    <th>Business Problem</th>
+    <th>Business Impact</th>
+  </tr>
+  <tr>
+    <td>
+      Workforce onboarding activities were managed through multiple spreadsheets,
+      email communications, and manual tracking processes. Stakeholders lacked
+      centralized visibility into badge status, background screening progress,
+      site access permissions, company asset assignments, and recurring compliance
+      requirements. The manual process increased administrative effort, limited
+      reporting visibility, and created risks related to workforce readiness and
+      access management.
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>• Centralized workforce onboarding tracking</td>
+          <td>• Improved site access management controls</td>
+        </tr>
+        <tr>
+          <td>• Improved visibility into employee readiness status</td>
+          <td>• Enhanced compliance monitoring and reporting</td>
+        </tr>
+        <tr>
+          <td>• Reduced manual administrative effort</td>
+          <td>• Increased accountability across onboarding activities</td>
+        </tr>
+        <tr>
+          <td>• Standardized workforce access processes</td>
+          <td>• Improved operational readiness reporting</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 

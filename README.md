@@ -59,7 +59,7 @@ Developed an interactive Power BI solution that enables stakeholders to evaluate
 
 # Additional Project Case Studies
 
-## 💰 AR Aging & Collections Dashboard
+## 💰 AR Aging & Collections Dashboard [View Project →](AR Aging & Collections Dashboard/README.md)
 
 Power BI dashboard designed to analyze accounts receivable aging, payment trends, and collection performance metrics.
 

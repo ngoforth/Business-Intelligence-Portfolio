@@ -80,8 +80,7 @@ Workflow automation initiative leveraging SharePoint, Power Automate, and busine
 ### 💰 Enterprise AR Reporting Dashboard [View Project →](enterprise-ar-reporting-dashboard/README.md)
 
 Power BI dashboard designed to improve visibility into accounts receivable performance, aging balances, outstanding invoices, and collections activity by consolidating financial data from multiple ERP systems into a centralized reporting solution.
-
-**Tools:** Power BI, Snowflake, Microsoft Dynamics 365, Spectrum ERP, VBA, Power Query
+Tools: Power BI, Snowflake, Microsoft Dynamics 365, Spectrum ERP, VBA, Power Query
 ---
 
 

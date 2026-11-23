@@ -94,5 +94,10 @@ The solution improved visibility into AR activity and provided financial teams w
 ## Key Takeaway
 
 This project demonstrates the ability to transform financial data from multiple enterprise systems into actionable business intelligence solutions. By integrating Spectrum and Microsoft Dynamics 365 data into Snowflake and visualizing key metrics within Power BI, the solution improved visibility into accounts receivable performance, customer payment activity, aging balances, and collection trends while reducing manual reporting effort and supporting more informed financial decision-making.
----
 
+---
+<p align="center">
+<a href="https://ngoforth.github.io/Business-Intelligence-Portfolio/">
+🏠 Return to Portfolio Home
+</a>
+</p>
